@@ -1,0 +1,28 @@
+body{
+    background: #0800ff;
+    background: linear-gradient(146deg, rgba(8, 0, 255, 1) 0%, rgba(37, 33, 255, 1) 50%, rgba(255, 77, 77, 1) 100%);
+}
+
+.bg-success {
+    background: #0800ff;
+    background: linear-gradient(90deg, rgba(8, 0, 255, 1) 0%, rgba(8, 0, 255, 1) 0%, rgba(8, 0, 255, 1) 0%);
+  }
+
+#text-streamings{
+    color: white;
+}
+
+#streamings {
+    border: 5px solid rgb(16, 0, 110);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 1.5px );
+    border-radius: 100%;
+    object-fit: cover;
+    position: relative;
+    transition: 300ms linear;
+}
+
+#streamings:hover{
+    transform: scale(1.1);
+    transition: 300ms linear;
+}
