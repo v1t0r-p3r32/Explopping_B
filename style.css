@@ -26,3 +26,10 @@ body{
     transform: scale(1.1);
     transition: 300ms linear;
 }
+
+#movies{
+    border: 5px solid rgb(16, 0, 110);
+    background-color: rgb(16, 0, 110);
+    color: white;
+    font-weight: bold;
+}
