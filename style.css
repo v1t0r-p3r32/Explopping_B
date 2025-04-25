@@ -49,3 +49,14 @@ body{
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
+
+#navbarSupportedContent{
+    margin-left: 30rem;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+}
