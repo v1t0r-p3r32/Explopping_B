@@ -1,6 +1,6 @@
 body{
-    background: #0800ff;
-    background: linear-gradient(146deg, rgba(8, 0, 255, 1) 0%, rgba(37, 33, 255, 1) 50%, rgba(255, 77, 77, 1) 100%);
+    background: #1100ff;
+    background: linear-gradient(155deg,rgba(17, 0, 255, 1) 0%, rgba(157, 0, 255, 1) 50%, rgba(255, 102, 102, 1) 100%);
 }
 
 .bg-success {
